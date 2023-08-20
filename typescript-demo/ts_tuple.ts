@@ -11,7 +11,6 @@ type User = [number , string]
 const user1: User = [1, 'John']
 
 user1[0] = 2
-
-user1.push(2, false)
+//  THIS WILL GIVE US ERROR user1.push(2, false)
 
 export{}

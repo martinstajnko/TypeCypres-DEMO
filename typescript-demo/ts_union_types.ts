@@ -9,3 +9,5 @@ const user: { name: string; age: number } = {
     name: 'John',
     age: 33,
 }
+
+export {}

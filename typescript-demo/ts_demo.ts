@@ -44,3 +44,5 @@ let myCardDetails: cardDetails = {
     cardExpiration: '12/25',
     cardCvv: 123
 }
+
+export{}
